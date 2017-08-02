@@ -1,0 +1,31 @@
+.dropdown-menu li a:hover  {
+  background-color: #666666;
+  color: white;
+}
+.dropdown-menu li a {
+  color: white;
+}
+.carousel-indicators li {
+  background-color: black;
+  border: 1px solid black;
+}
+.carousel-indicators li.active {
+  background-color: gray;
+  border: 1px solid gray;
+}
+footer {
+  color: gray;
+  background-color: black;
+}
+#content.container p {
+  color: #737373;
+  font-size: 30px;
+  padding: 40px 80px 80px 80px;
+  text-align: left;
+  font-family: "Lobster", serif;
+}
+#content.container h1{
+  font-family: "Pacifico", serif;
+  padding: 40px 80px 0px 80px;
+  color: #737373;
+}
