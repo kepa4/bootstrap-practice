@@ -17,6 +17,9 @@ footer {
   color: gray;
   background-color: black;
 }
+#content.container{
+  width: 100%;
+}
 #content.container p {
   color: #737373;
   font-size: 30px;
@@ -28,4 +31,31 @@ footer {
   font-family: "Pacifico", serif;
   padding: 40px 80px 0px 80px;
   color: #737373;
+}
+#content2.container {
+  background: #2d2d30;
+  color: #bdbdbd;
+  margin: auto;
+  width: 100%;
+}
+#content2.container p {
+  font-family: "Lobster", serif;
+  font-size: 30px;
+  padding: 40px 80px 80px 80px;
+  text-align: left;
+}
+#content2.container h1 {
+  font-family: "Pacifico", serif;
+  padding: 40px 80px 0px 80px;
+}
+#profiles{
+
+}
+#profiles p{
+  font-family: "Pacifico", serif;
+  font-size: 30px;
+}
+#profiles h1{
+  font-family: "Lobster", serif;
+  text-align: center;
 }
