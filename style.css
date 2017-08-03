@@ -1,3 +1,6 @@
+.navbar{
+  opacity: 0.9;
+}
 .dropdown-menu li a:hover  {
   background-color: #666666;
   color: white;
@@ -49,7 +52,8 @@ footer {
   padding: 40px 80px 0px 80px;
 }
 #profiles{
-
+  margin: auto;
+  padding: 80px 120px 80px 120px;
 }
 #profiles p{
   font-family: "Pacifico", serif;
@@ -57,5 +61,10 @@ footer {
 }
 #profiles h1{
   font-family: "Lobster", serif;
-  text-align: center;
+
+}
+#profiles img{
+  filter: grayscale(100%);
+  vertical-align: middle;
+  
 }
